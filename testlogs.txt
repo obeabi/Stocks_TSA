@@ -1,0 +1,125 @@
+2024-06-03 14:40:08,743 - INFO - This is an info message
+2024-06-03 14:40:08,743 - WARNING - This is a warning message
+2024-06-03 14:40:08,743 - ERROR - This is an error message
+2024-06-03 14:41:16,024 - INFO - This is an info message
+2024-06-03 14:41:16,024 - WARNING - This is a warning message
+2024-06-03 14:41:16,024 - ERROR - This is an error message
+2024-06-03 15:08:07,242 - INFO - Classifier Model initialized successfully!
+2024-06-03 15:08:07,242 - INFO - Classifier Model initialized successfully!
+2024-06-03 15:08:45,703 - INFO - Classifier Model initialized successfully!
+2024-06-03 15:08:45,703 - INFO - Classifier Model initialized successfully!
+2024-06-03 15:08:53,488 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-03 15:08:53,488 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-03 15:09:49,933 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-03 15:09:49,933 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-03 15:09:51,746 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-03 15:09:51,746 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-03 15:10:31,600 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-03 15:10:31,600 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-03 15:21:55,907 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-03 15:23:01,623 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-03 15:23:03,649 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-03 15:23:45,411 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-03 15:38:10,948 - INFO - Successfully rendered distribution plots of target varaiable
+2024-06-03 15:38:17,121 - INFO - Successfully found the optimal count of clusters
+2024-06-03 15:38:17,121 - INFO - 4
+2024-06-03 15:38:17,268 - INFO - Successfully plotted the elbow curve  the optimal count of clusters
+2024-06-03 15:38:17,315 - INFO - Successfully trained cluster algorthim with the optimal count of clusters
+2024-06-03 15:38:18,821 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-03 15:38:19,377 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-03 15:39:29,698 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-03 15:39:32,012 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-03 15:40:18,661 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-03 15:40:24,593 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-06-03 15:40:24,593 - INFO - {'best_model': 'catboost', 'accuracy': 0.7449375, 'confusion_matrix': array([[45821, 17437],
+       [ 2968, 13774]], dtype=int64), 'Classification_report': '              precision    recall  f1-score   support\n\n           0       0.94      0.72      0.82     63258\n           1       0.44      0.82      0.57     16742\n\n    accuracy                           0.74     80000\n   macro avg       0.69      0.77      0.70     80000\nweighted avg       0.83      0.74      0.77     80000\n', 'fpr': array([0.00000000e+00, 1.58082772e-05, 1.58082772e-05, ...,
+       9.99794492e-01, 9.99826109e-01, 1.00000000e+00]), 'tpr': array([0.00000000e+00, 0.00000000e+00, 5.97300203e-05, ...,
+       1.00000000e+00, 1.00000000e+00, 1.00000000e+00]), 'thresholds': array([       inf, 0.95079582, 0.94972393, ..., 0.00573839, 0.00572228,
+       0.00567674]), 'auc': 0.8458571822374157}
+2024-06-07 14:40:09,982 - INFO - Successfully rendered distribution plots of target varaiable
+2024-06-07 14:41:02,757 - INFO - Successfully found the optimal count of clusters
+2024-06-07 14:41:02,758 - INFO - 4
+2024-06-07 14:41:02,895 - INFO - Successfully plotted the elbow curve  the optimal count of clusters
+2024-06-07 14:41:03,146 - INFO - Successfully trained cluster algorthim with the optimal count of clusters
+2024-06-07 14:41:16,961 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-07 14:41:23,634 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-07 15:01:21,198 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-07 15:01:40,410 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-07 15:11:25,974 - INFO - Successfully rendered distribution plots of target varaiable
+2024-06-07 15:12:18,739 - INFO - Successfully found the optimal count of clusters
+2024-06-07 15:12:18,739 - INFO - 4
+2024-06-07 15:12:18,902 - INFO - Successfully plotted the elbow curve  the optimal count of clusters
+2024-06-07 15:12:19,175 - INFO - Successfully trained cluster algorthim with the optimal count of clusters
+2024-06-07 15:12:33,357 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-07 15:12:39,783 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-07 15:32:10,603 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-07 15:32:27,072 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-07 15:32:53,776 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-07 15:38:59,488 - INFO - Successfully rendered distribution plots of target varaiable
+2024-06-07 15:39:05,293 - INFO - Successfully found the optimal count of clusters
+2024-06-07 15:39:05,293 - INFO - 4
+2024-06-07 15:39:05,420 - INFO - Successfully plotted the elbow curve  the optimal count of clusters
+2024-06-07 15:39:05,450 - INFO - Successfully trained cluster algorthim with the optimal count of clusters
+2024-06-07 15:39:06,808 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-07 15:39:07,351 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-07 15:39:56,321 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-07 15:39:57,779 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-07 15:40:00,728 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-07 15:40:05,283 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-06-07 15:40:05,283 - INFO - {'best_model': 'xgboost', 'accuracy': 0.7912625, 'confusion_matrix': array([[63278,     9],
+       [16690,    23]], dtype=int64), 'Classification_report': '              precision    recall  f1-score   support\n\n           0       0.79      1.00      0.88     63287\n           1       0.72      0.00      0.00     16713\n\n    accuracy                           0.79     80000\n   macro avg       0.76      0.50      0.44     80000\nweighted avg       0.78      0.79      0.70     80000\n', 'fpr': array([0.00000000e+00, 0.00000000e+00, 1.58010334e-05, ...,
+       8.96692844e-01, 8.96945660e-01, 1.00000000e+00]), 'tpr': array([0.00000000e+00, 1.19667325e-04, 1.19667325e-04, ...,
+       9.98504158e-01, 9.98504158e-01, 1.00000000e+00]), 'thresholds': array([       inf, 0.5447431 , 0.5435492 , ..., 0.09272709, 0.09168736,
+       0.09160262], dtype=float32), 'auc': 0.8465717828651432}
+2024-06-07 15:44:25,365 - INFO - Successfully rendered distribution plots of target varaiable
+2024-06-07 15:45:13,337 - INFO - Successfully found the optimal count of clusters
+2024-06-07 15:45:13,338 - INFO - 4
+2024-06-07 15:45:13,475 - INFO - Successfully plotted the elbow curve  the optimal count of clusters
+2024-06-07 15:45:13,726 - INFO - Successfully trained cluster algorthim with the optimal count of clusters
+2024-06-07 15:45:27,811 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-07 15:45:34,063 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-07 16:04:43,789 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-07 16:05:00,712 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-07 16:06:12,784 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-07 16:07:50,897 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-06-07 16:07:50,897 - INFO - {'best_model': 'xgboost', 'accuracy': 0.7905915881736137, 'confusion_matrix': array([[617195,    122],
+       [163440,    310]], dtype=int64), 'Classification_report': '              precision    recall  f1-score   support\n\n           0       0.79      1.00      0.88    617317\n           1       0.72      0.00      0.00    163750\n\n    accuracy                           0.79    781067\n   macro avg       0.75      0.50      0.44    781067\nweighted avg       0.78      0.79      0.70    781067\n', 'fpr': array([0.00000000e+00, 2.26787858e-05, 2.26787858e-05, ...,
+       8.83035782e-01, 9.04642185e-01, 1.00000000e+00]), 'tpr': array([0.00000000e+00, 3.05343511e-04, 3.11450382e-04, ...,
+       9.98076336e-01, 9.98552672e-01, 1.00000000e+00]), 'thresholds': array([       inf, 0.5346102 , 0.5337134 , ..., 0.09230826, 0.09225021,
+       0.09218758], dtype=float32), 'auc': 0.8452107852143764}
+2024-06-07 16:07:53,285 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-07 16:10:55,875 - INFO - Successfully rendered distribution plots of target varaiable
+2024-06-07 16:11:47,524 - INFO - Successfully found the optimal count of clusters
+2024-06-07 16:11:47,524 - INFO - 4
+2024-06-07 16:11:47,770 - INFO - Successfully plotted the elbow curve  the optimal count of clusters
+2024-06-07 16:11:48,078 - INFO - Successfully trained cluster algorthim with the optimal count of clusters
+2024-06-07 16:12:02,755 - INFO - Successfully splitted the dataset into train-test sets
+2024-06-07 16:12:09,100 - INFO - Successfully trained the Logistic Regression Classifier Model!
+2024-06-07 16:31:27,260 - INFO - 
+Successfully trained the Random Forrest Classifier Model!
+2024-06-07 16:31:43,514 - INFO - 
+Successfully trained the XGBoost Classifier Model!
+2024-06-07 16:36:34,430 - INFO - Successfully the CatBoost Classifier Model!
+2024-06-07 16:38:12,108 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-06-07 16:38:12,108 - INFO - {'best_model': 'catboost', 'accuracy': 0.7434061354531686, 'confusion_matrix': array([[445238, 172079],
+       [ 28338, 135412]], dtype=int64), 'Classification_report': '              precision    recall  f1-score   support\n\n           0       0.94      0.72      0.82    617317\n           1       0.44      0.83      0.57    163750\n\n    accuracy                           0.74    781067\n   macro avg       0.69      0.77      0.70    781067\nweighted avg       0.84      0.74      0.77    781067\n', 'fpr': array([0.00000000e+00, 0.00000000e+00, 1.61991327e-06, ...,
+       9.99768352e-01, 9.99884986e-01, 1.00000000e+00]), 'tpr': array([0.00000000e+00, 6.10687023e-06, 6.10687023e-06, ...,
+       1.00000000e+00, 1.00000000e+00, 1.00000000e+00]), 'thresholds': array([       inf, 0.96581622, 0.96466537, ..., 0.00569947, 0.00569877,
+       0.00569783]), 'auc': 0.8461097448306434}
+2024-06-07 16:38:13,613 - INFO - Successfully splitted the dataset into train-test sets
